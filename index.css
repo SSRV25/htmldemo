@@ -1,0 +1,52 @@
+body{
+    background-image:url(https://ik.imagekit.io/8bmkjltzkxw/backgroung_iPyWbl9Sd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645624387781);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wrap{
+    width: 100%;
+    height: 50px;
+    
+}
+.wallet{
+    position:fixed;
+    right: 25px;
+    top: 0px;
+}
+
+.roadmap{ 
+    position: fixed;
+    left: 250px;
+    top: 50px;
+
+}
+.faqs{
+    position: fixed;
+    left:450px;
+    top:50px;
+}
+.mint{
+    position: fixed;
+    right:570px;
+    top:50px;
+}
+.stake{
+    position: fixed;
+    right:380px;
+    top:50px;
+}
+.twitter{
+    position: fixed;
+    right:270px;
+    top:50px;
+}
+.discord{
+    position: fixed;
+    right: 210px;
+    top:50px;
+}
+.opensea{
+    position: fixed;
+    right:150px;
+    top:50px;
+}
